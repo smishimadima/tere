@@ -1,0 +1,129 @@
+
+//<![CDATA[
+$(document).ready(function(){
+
+	new jPlayerPlaylist({
+		jPlayer: "#jquery_jplayer_1",
+		cssSelectorAncestor: "#jp_container_1"
+	}, [
+		{
+			title:"1. 15_haneny",
+			mp3:"http://douniamp3.co/music/test2/نغمات%20موبايل/رنات-إسلامية/15_haneny.mp3",
+		},
+
+		{
+			title:"2. AllahRabona",
+			mp3:"http://douniamp3.co/music/test2/نغمات%20موبايل/رنات-إسلامية/AllahRabona.mp3",
+		},
+
+		{
+			title:"3. Doaa ranat",
+			mp3:"http://douniamp3.co/music/test2/نغمات%20موبايل/رنات-إسلامية/Doaa ranat.mp3",
+		},
+
+		{
+			title:"4. FeZelAl3arsh",
+			mp3:"http://douniamp3.co/music/test2/نغمات%20موبايل/رنات-إسلامية/FeZelAl3arsh.mp3",
+		},
+
+		{
+			title:"5. Maher Zain ranat 1",
+			mp3:"http://douniamp3.co/music/test2/نغمات%20موبايل/رنات-إسلامية/Maher Zain ranat 1.mp3",
+		},
+
+		{
+			title:"6. OmyYaHoban",
+			mp3:"http://douniamp3.co/music/test2/نغمات%20موبايل/رنات-إسلامية/OmyYaHoban.mp3",
+		},
+
+		{
+			title:"7. Ranat isslamique 2016",
+			mp3:"http://douniamp3.co/music/test2/نغمات%20موبايل/رنات-إسلامية/Ranat isslamique 2016.mp3",
+		},
+
+		{
+			title:"8. RasolAllah",
+			mp3:"http://douniamp3.co/music/test2/نغمات%20موبايل/رنات-إسلامية/RasolAllah.mp3",
+		},
+
+		{
+			title:"9. YaNafs",
+			mp3:"http://douniamp3.co/music/test2/نغمات%20موبايل/رنات-إسلامية/YaNafs.mp3",
+		},
+
+		{
+			title:"10. achra9at nafsi",
+			mp3:"http://douniamp3.co/music/test2/نغمات%20موبايل/رنات-إسلامية/achra9at nafsi.mp3",
+		},
+
+		{
+			title:"11. ana muyslim",
+			mp3:"http://douniamp3.co/music/test2/نغمات%20موبايل/رنات-إسلامية/ana muyslim.mp3",
+		},
+
+		{
+			title:"12. badr",
+			mp3:"http://douniamp3.co/music/test2/نغمات%20موبايل/رنات-إسلامية/badr.mp3",
+		},
+
+		{
+			title:"13. la-elah-el-allah-afasy",
+			mp3:"http://douniamp3.co/music/test2/نغمات%20موبايل/رنات-إسلامية/la-elah-el-allah-afasy.mp3",
+		},
+
+		{
+			title:"14. laka 3odt",
+			mp3:"http://douniamp3.co/music/test2/نغمات%20موبايل/رنات-إسلامية/laka 3odt.mp3",
+		},
+
+		{
+			title:"15. molay",
+			mp3:"http://douniamp3.co/music/test2/نغمات%20موبايل/رنات-إسلامية/molay.mp3",
+		},
+
+		{
+			title:"16. omi",
+			mp3:"http://douniamp3.co/music/test2/نغمات%20موبايل/رنات-إسلامية/omi.mp3",
+		},
+
+		{
+			title:"17. rachid machari",
+			mp3:"http://douniamp3.co/music/test2/نغمات%20موبايل/رنات-إسلامية/rachid machari.mp3",
+		},
+
+		{
+			title:"18. sabran",
+			mp3:"http://douniamp3.co/music/test2/نغمات%20موبايل/رنات-إسلامية/sabran.mp3",
+		},
+
+		{
+			title:"19. wahdy",
+			mp3:"http://douniamp3.co/music/test2/نغمات%20موبايل/رنات-إسلامية/wahdy.mp3",
+		},
+
+		{
+			title:"20. ya nabi",
+			mp3:"http://douniamp3.co/music/test2/نغمات%20موبايل/رنات-إسلامية/ya nabi.mp3",
+		},
+
+		{
+			title:"21. yartawy",
+			mp3:"http://douniamp3.co/music/test2/نغمات%20موبايل/رنات-إسلامية/yartawy.mp3",
+		},
+
+		{
+			title:"22. you are light",
+			mp3:"http://douniamp3.co/music/test2/نغمات%20موبايل/رنات-إسلامية/you are light.mp3",
+		},
+
+	], {
+		swfPath: "dist/jplayer",
+		supplied: "oga, mp3",
+		wmode: "window",
+		useStateClassSkin: true,
+		autoBlur: false,
+		smoothPlayBar: true,
+		keyEnabled: true
+	});
+});
+//]]>
