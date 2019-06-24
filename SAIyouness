@@ -7,7 +7,7 @@
   ],
   "KG_img": [
     {
-      "I_hash": "body > div > div:nth-chicscscsld(3) > div.col-m-9.col-s-12.container > div.row.post > div.col-m-3 > img",
+      "I_hash": "body > div > div:nth-child(3) > div.col-m-9.col-s-12.container > div.row.post > div.col-m-3 > img",
       "I_onli": ""
     }
   ],
@@ -19,7 +19,7 @@
       "P_z": "}]}",
       "R_e": ".mp3\",",
       "P_e": ".mp3\"",
-      "R_r": "titeeele:",
+      "R_r": "title:",
       "P_r": "\"title\":",
       "R_t": "mp3:",
       "P_t": "\"url\":"
