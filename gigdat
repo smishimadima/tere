@@ -18,7 +18,7 @@
       "R_z": ", }, ], { swfPath: \"dist/jplayer\", supplied: \"oga, mp3\", wmode: \"window\", useStateClassSkin: true, autoBlur: false, smoothPlayBar: true, keyEnabled: true }); }); //",
       "P_z": "}]}",
       "R_e": ".mp3\",",
-      "P_e": ".mp3\"",
+      "P_e": ".url\"",
       "R_r": "title:",
       "P_r": "\"title\":",
       "R_t": "mp3:",
