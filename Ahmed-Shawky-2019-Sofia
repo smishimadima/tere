@@ -1,0 +1,55 @@
+{
+  "KG_url": [
+    {
+      "U_url": "https://douniamp3.co/احمد-شوقي-2019-صوفيا.html",
+      "U_hash": "#j_player > script:nth-child(6)"
+    }
+  ],
+  "KG_img": [
+    {
+      "I_hash": "body > div > div:nth-child(3) > div.col-m-9.col-s-12.container > div.row.post > div.col-m-3 > img",
+      "I_onli": ""
+    }
+  ],
+  "KG_rep": [
+    {
+      "R_a": "// $(document).ready(function(){ new jPlayerPlaylist({ jPlayer: \"#jquery_jplayer_1\", cssSelectorAncestor: \"#jp_container_1\" }, ",
+      "P_a": "{\"Capital\":",
+      "R_z": ", }, ], { swfPath: \"dist/jplayer\", supplied: \"oga, mp3\", wmode: \"window\", useStateClassSkin: true, autoBlur: false, smoothPlayBar: true, keyEnabled: true }); }); //",
+      "P_z": "}]}",
+      "R_e": ".mp3\",",
+      "P_e": ".mp3\"",
+      "R_r": "title:",
+      "P_r": "\"title\":",
+      "R_t": "mp3:",
+      "P_t": "\"url\":"
+    }
+  ],
+  "Capital": [
+    {
+      "title": "الفاتحة",
+      "url": "https://server11.mp3quran.net/sds/001.mp3",
+      "I_onli": "https://exp.cdn-hotels.com/hotels/17000000/16250000/16249700/16249642/e93a4362_z.jpg"
+    },
+    {
+      "title": "البقرة",
+      "url": "https://server11.mp3quran.net/sds/002.mp3",
+      "I_onli": "https://alziadiq8.com/wp-content/uploads/2013/10/3910266_max.jpg"
+    },
+    {
+      "title": "ل عمران",
+      "url": "https://server11.mp3quran.net/sds/003.mp3",
+      "I_onli": "https://www.mexatk.com/wp-content/uploads/2015/12/صور-اشكال-مساجد-4.jpg"
+    },
+    {
+      "title": "النساء",
+      "url": "https://server11.mp3quran.net/sds/004.mp3",
+      "I_onli": "https://www.mexatk.com/wp-content/uploads/2016/03/صور-مساجد-4-450x338.jpg"
+    },
+    {
+      "title": "المائدة",
+      "url": "https://server11.mp3quran.net/sds/005.mp3",
+      "I_onli": "https://media.linkonlineworld.com/img/large/2018/3/2/2018_3_2_14_10_55_432.jpg"
+    }
+  ]
+}
