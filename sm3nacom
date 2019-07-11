@@ -2,27 +2,30 @@
   "KG_url": [
     {
       "U_url": "https://www.sm3na.com/audios/734fe93831",
-      "U_hash": "#j_player > script:nth-child(6)"
+      "U_hash": "div[class=song-container]",
+      "U_titel": "div.song-top > div.song-titles > div.song-title",
+      "U_so": "div.song-top > div",
+      "U_soo": "data-track-url"
     }
   ],
   "KG_img": [
     {
-      "I_hash": "body > div > div:nth-child(3) > div.col-m-9.col-s-12.container > div.row.post > div.col-m-3 > img",
+      "I_hash": "div.song-art > a > img",
       "I_onli": ""
     }
   ],
   "KG_rep": [
     {
-      "R_a": "// $(document).ready(function(){ new jPlayerPlaylist({ jPlayer: \"#jquery_jplayer_1\", cssSelectorAncestor: \"#jp_container_1\" }, ",
-      "P_a": "{\"Capital\":",
-      "R_z": ", }, ], { swfPath: \"dist/jplayer\", supplied: \"oga, mp3\", wmode: \"window\", useStateClassSkin: true, autoBlur: false, smoothPlayBar: true, keyEnabled: true }); }); //",
-      "P_z": "}]}",
-      "R_e": ".mp3\",",
-      "P_e": ".mp3\"",
-      "R_r": "title:",
-      "P_r": "\"title\":",
-      "R_t": "mp3:",
-      "P_t": "\"url\":"
+      "R_a": ".mp3",
+      "P_a": "",
+      "R_z": "http",
+      "P_z": "",
+      "R_e": "",
+      "P_e": "",
+      "R_r": "",
+      "P_r": "",
+      "R_t": "",
+      "P_t": ""
     }
   ],
   "Capital": [
