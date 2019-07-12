@@ -18,13 +18,13 @@
     {
       "R_a": ".mp3",
       "P_a": "",
-      "R_z": "http",
+      "R_z": "div.song-top > div.song-titles",
       "P_z": "",
-      "R_e": "",
+      "R_e": "song-title",
       "P_e": "",
-      "R_r": "",
+      "R_r": "div.song-top > div",
       "P_r": "",
-      "R_t": "",
+      "R_t": "data-track-url",
       "P_t": ""
     }
   ],
