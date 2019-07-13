@@ -1,0 +1,60 @@
+{
+  "KG_url": [
+    {
+      "U_url": "https://guncelmp3indir.com/album/18905/t-a-t-u/en-iyiler-album-indir",
+      "U_hash": "div[class=mp3list row]",
+      "U_titel": "div.mp3_name",
+      "U_so": "a",
+      "U_soo": "href",
+      "U_ong": "script:nth-child(10)"
+      
+    }
+  ],
+  "KG_img": [
+    {
+      "I_hash": "div.content_mp3_left > div > img",
+      "I_onli": ""
+    }
+  ],
+  "KG_rep": [
+    {
+      "R_a": "",
+      "P_a": "",
+      "R_z": "",
+      "P_z": "",
+      "R_e": "",
+      "P_e": "",
+      "R_r": "",
+      "P_r": "",
+      "R_t": "",
+      "P_t": "((https?|ftp|gopher|telnet|file|notes|ms-help):((//)|(\\\\\\\\))+[\\w\\d:#@%/;$()~_?\\+-=\\\\\\.&]*\\.mp3)"
+    }
+  ],
+  "Capital": [
+    {
+      "title": "الفاتحة",
+      "url": "https://server11.mp3quran.net/sds/001.mp3",
+      "I_onli": "https://exp.cdn-hotels.com/hotels/17000000/16250000/16249700/16249642/e93a4362_z.jpg"
+    },
+    {
+      "title": "البقرة",
+      "url": "https://server11.mp3quran.net/sds/002.mp3",
+      "I_onli": "https://alziadiq8.com/wp-content/uploads/2013/10/3910266_max.jpg"
+    },
+    {
+      "title": "ل عمران",
+      "url": "https://server11.mp3quran.net/sds/003.mp3",
+      "I_onli": "https://www.mexatk.com/wp-content/uploads/2015/12/صور-اشكال-مساجد-4.jpg"
+    },
+    {
+      "title": "النساء",
+      "url": "https://server11.mp3quran.net/sds/004.mp3",
+      "I_onli": "https://www.mexatk.com/wp-content/uploads/2016/03/صور-مساجد-4-450x338.jpg"
+    },
+    {
+      "title": "المائدة",
+      "url": "https://server11.mp3quran.net/sds/005.mp3",
+      "I_onli": "https://media.linkonlineworld.com/img/large/2018/3/2/2018_3_2_14_10_55_432.jpg"
+    }
+  ]
+}
