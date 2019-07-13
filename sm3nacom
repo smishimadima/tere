@@ -18,7 +18,7 @@
     {
       "R_a": ".mp3",
       "P_a": "",
-      "R_z": "div.sereong-top > div.song-titles",
+      "R_z": "div.song-top > div.song-titles",
       "P_z": "",
       "R_e": "song-title",
       "P_e": "",
