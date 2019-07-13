@@ -1,7 +1,7 @@
 {
   "KG_url": [
     {
-      "U_url": "https://www.sm3na.com/sm3na/734fe93831",
+      "U_url": "https://www.sm3na.com/audios/734fe93831",
       "U_hash": "div[class=song-container]",
       "U_titel": "div.song-top > div.song-titles > div.song-title",
       "U_so": "div.song-top > div",
@@ -18,7 +18,7 @@
     {
       "R_a": ".mp3",
       "P_a": "",
-      "R_z": "div.song-top > div.song-titles",
+      "R_z": "div.sereong-top > div.song-titles",
       "P_z": "",
       "R_e": "song-title",
       "P_e": "",
